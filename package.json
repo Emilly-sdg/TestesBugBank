@@ -1,0 +1,12 @@
+{
+  "name": "cypress-bugbank",
+  "version": "1.0.0",
+  "description": "Projeto de teste e2e BugBank",
+  "main": "index.js",
+  "repository": "https://github.com/Emilly-sdg/TestesBugBank.git",
+  "author": "Emilly Santos",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^13.6.2"
+  }
+}
