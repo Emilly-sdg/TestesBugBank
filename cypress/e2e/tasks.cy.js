@@ -267,7 +267,7 @@ describe('casos de teste', () => {
                 })
         })
 
-        it.only('Valor abertura de conta', () => {
+        it('Valor abertura de conta', () => {
             var email = 'test@teste.com'
             var senha = '1234567e'
             var nome = 'Emilly Santos'
