@@ -23,4 +23,4 @@ Passos para inicialização do cypress:
 #### ⚠️ Observações importantes:
 * Caso o comando yarn init não funcione, utilize o comando npm init
 * Caso o comando yarn add cypress -D não funcione, utilize o comando npm add cypress -D
-* Caso o comando yarn cypress ope não funcione, utilize o comando npx cypress open
+* Caso o comando yarn cypress open não funcione, utilize o comando npx cypress open
