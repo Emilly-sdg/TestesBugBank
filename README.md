@@ -1,10 +1,11 @@
 Testes automatizados realizados na aplicação web BugBank, utilizando Cypress com JavaScript.
 #
-Pré Requisitos: instalação do Node.Js
+Pré Requisitos: 
+* Instalação do Node.Js
 
-É preciso iniciar a aplicação BugBank que está disponível no [GitHub do autor](https://github.com/jhonatasmatos/bugbank)
+* É preciso iniciar a aplicação BugBank que está disponível no [GitHub do autor](https://github.com/jhonatasmatos/bugbank)
 
-Depois utilizar o comando yarn init (inicializar o Node.Js com as suas depedências)
+* Depois utilizar o comando yarn init (inicializar o Node.Js com as suas depedências)
 
 Passos para inicialização do cypress:
 
